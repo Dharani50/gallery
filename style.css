@@ -1,0 +1,17 @@
+div{
+    display: inline-block;
+}
+
+.index{
+    padding:5px;
+    margin:5px;
+    justify-content: center;
+}
+
+body{
+    background-color: lightsalmon;
+}
+a:hover{
+    color: white;
+    cursor: pointer;
+}

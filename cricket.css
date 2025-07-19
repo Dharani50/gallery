@@ -1,0 +1,16 @@
+div{
+    display: inline-block;
+}
+
+.crickrt{
+  margin-left: 5px;
+  padding: 5px;
+}
+
+body{
+    background-color: lightsalmon;
+}
+a:hover{
+    color: white;
+    cursor: pointer;
+}
